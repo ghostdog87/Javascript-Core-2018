@@ -17,8 +17,8 @@
       <file leaf-file-name="sorting.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1. Sort Array/sorting.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="153">
+              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -26,19 +26,42 @@
       <file leaf-file-name="arguments.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2. Argument Info/arguments.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            <state relative-caret-position="102">
+              <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="summer.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="summer.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/3. Functional Sum/summer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="170">
+              <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BMI.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4. Personal BMI/BMI.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="35" column="29" selection-end-line="35" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="math.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/5. Vector Math/math.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="robot.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/6. Breakfast Robot/robot.js">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -57,6 +80,9 @@
         <option value="$PROJECT_DIR$/2. Argument Info/argument.js" />
         <option value="$PROJECT_DIR$/2. Argument Info/arguments.js" />
         <option value="$PROJECT_DIR$/3. Functional Sum/summer.js" />
+        <option value="$PROJECT_DIR$/4. Personal BMI/BMI.js" />
+        <option value="$PROJECT_DIR$/5. Vector Math/math.js" />
+        <option value="$PROJECT_DIR$/6. Breakfast Robot/robot.js" />
       </list>
     </option>
   </component>
@@ -76,8 +102,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="843" />
-    <option name="y" value="150" />
+    <option name="x" value="-2" />
+    <option name="y" value="63" />
     <option name="width" value="1930" />
     <option name="height" value="1038" />
   </component>
@@ -86,7 +112,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -98,6 +123,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -119,17 +145,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.summer.js">
+  <component name="RunManager" selected="Node.js.math.js">
+    <configuration name="BMI.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="BMI.js" working-dir="$PROJECT_DIR$/4. Personal BMI" />
     <configuration name="arguments.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="arguments.js" working-dir="$PROJECT_DIR$/2. Argument Info" />
+    <configuration name="math.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="math.js" working-dir="$PROJECT_DIR$/5. Vector Math" />
     <configuration name="sorting.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="sorting.js" working-dir="$PROJECT_DIR$/1. Sort Array" />
     <configuration name="summer.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="summer.js" working-dir="$PROJECT_DIR$/3. Functional Sum" />
     <list>
       <item itemvalue="Node.js.sorting.js" />
       <item itemvalue="Node.js.arguments.js" />
       <item itemvalue="Node.js.summer.js" />
+      <item itemvalue="Node.js.BMI.js" />
+      <item itemvalue="Node.js.math.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.math.js" />
+        <item itemvalue="Node.js.BMI.js" />
         <item itemvalue="Node.js.summer.js" />
         <item itemvalue="Node.js.arguments.js" />
         <item itemvalue="Node.js.sorting.js" />
@@ -148,34 +180,36 @@
       <updated>1529956049943</updated>
       <workItem from="1529956051460" duration="419000" />
       <workItem from="1530034097856" duration="159000" />
-      <workItem from="1530034368856" duration="6050000" />
+      <workItem from="1530034368856" duration="6659000" />
+      <workItem from="1530214371112" duration="3180000" />
+      <workItem from="1530217633670" duration="612000" />
+      <workItem from="1530363314614" duration="71000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6628000" />
+    <option name="totallyTimeSpent" value="11100000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="843" y="150" width="1930" height="1038" extended-state="0" />
-    <editor active="true" />
+    <frame x="-2" y="63" width="1930" height="1038" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.14112051" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14112051" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33443707" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33443707" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39935064" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39845476" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,10 +220,104 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="3" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/1. Sort Array/sorting.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2. Argument Info/arguments.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3. Functional Sum/summer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. Personal BMI/BMI.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="29" selection-end-line="35" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5. Vector Math/math.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6. Breakfast Robot/robot.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1. Sort Array/sorting.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2. Argument Info/arguments.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3. Functional Sum/summer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. Personal BMI/BMI.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="29" lean-forward="true" selection-end-line="35" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5. Vector Math/math.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1. Sort Array/sorting.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2. Argument Info/arguments.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3. Functional Sum/summer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/1. Sort Array/sorting.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -207,26 +335,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1. Sort Array/sorting.js">
+    <entry file="file://$PROJECT_DIR$/3. Functional Sum/summer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="170">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. Personal BMI/BMI.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="29" selection-end-line="35" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/2. Argument Info/arguments.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        <state relative-caret-position="102">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3. Functional Sum/summer.js">
+    <entry file="file://$PROJECT_DIR$/1. Sort Array/sorting.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="153">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5. Vector Math/math.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6. Breakfast Robot/robot.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
